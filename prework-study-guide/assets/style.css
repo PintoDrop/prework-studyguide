@@ -1,11 +1,6 @@
 *{
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
-=======
-margin: 0;
-padding: 0;
->>>>>>> e5df3592a9954ccaa7a9b85ad16adc4f43f6ee67
 }
 
 header,
@@ -42,11 +37,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-<<<<<<< HEAD
-    box-shadow: 5px 10x #888888;
-}
-=======
+    border: 5px solid blue;
     box-shadow: 5px 10px #888888;
 }
->>>>>>> e5df3592a9954ccaa7a9b85ad16adc4f43f6ee67
